@@ -1,0 +1,4 @@
+xlwt
+BeautifulSoup
+lxml
+requests
